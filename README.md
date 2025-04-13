@@ -18,3 +18,4 @@ Instale os pacotes necessários:
 ```bash
 dpkg -i *.deb
 ```
+OBS: porta padrão do nfs - 2049
